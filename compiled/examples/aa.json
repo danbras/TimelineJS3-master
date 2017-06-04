@@ -1,16 +1,15 @@
 {
     "scale": "human",
         "title": {
-                "media": {
-                    "caption": "",
-                    "credit": "",
-                    "url": "http://2.bp.blogspot.com/-dxJbW0CG8Zs/TmkoMA5-cPI/AAAAAAAAAqw/fQpsz9GpFdo/s1600/voyage-dans-la-lune-1902-02-g.jpg",
-                    "thumb":    ""
+            "text": {
+                    "headline": "Advanced Analytics at Caleres",
+                    "text": ""
                 },
-                "text": {
-                    "headline": "Caleres Advanced Analytics",
-                    "text": "<p>Advanced Analytics (AA) employs mathematical modeling to identify patterns and make decisions. It is forward looking and predictive of the future.<br/>AA models are an asset, inaccessible to competitors - a piece of productive and scalable knowledge emerging from our very own combination of data and constraints.</p>"
-                }
+            "media": {
+                "credit": "",
+                "url": "<blockquote><p>Advanced analytics employs mathematical modeling to identify patterns and make decisions. It is forward looking and predictive of the future.</p><br/><p>Data models are an asset, inaccessible to competitors - a piece of productive and scalable knowledge emerging from our very own combination of data and constraints.</p></blockquote>",
+                "thumb":    ""
+            }
         },
     "eras": [
         {
@@ -60,7 +59,7 @@
                 "format":       ""
             },
             "text": {
-                "headline": "II. Unfamiliar, unstructured data. <strong>Converted into structured date.</strong> Acted upon at scale."
+                "headline": "II. Unfamiliar, unstructured data. <strong>Converted into structured data.</strong> Acted upon at scale."
             }
         },
         {
@@ -113,13 +112,12 @@
             },
             "media": {
                 "caption": "",
-                "credit":"McKinsey & Company, Jul 10, 2013",
+                "credit":"<a target=\"_blank\" href=\"https://www.slideshare.net/McK_CMSOForum/big-data-and-advanced-analytics-16-use-cases\">McKinsey & Company, Jul 10, 2013</a>",
                 "url": "https://image.slidesharecdn.com/mckinsey-nasscompresentationforsharing-130710162421-phpapp02/95/big-data-and-advanced-analytics-2-638.jpg?cb=1398085989"
             },
             "text": {
                 "headline": "<strong>I. Familiar, structured data.</strong> Acted upon at scale.",
-                "text": "<p>Source <a target=\"_blank\" href=\"https://www.slideshare.net/McK_CMSOForum/big-data-and-advanced-analytics-16-use-cases\">Big Data and Advanced Analytics 16 Use Cases From a Practitioner's Perspective</a>, McKinsey & Company, Jul 10, 2013</p>"
-
+                "text":"<p>Apart from developing productive models for different verticals within the organization, the advanced analytics empowers the organization to mine existing large scale structured datasets.</p><p>Examples include:<ul><li>Website/mobile app interaction (Adobe Analytics) raw data</li><li>Email, SMS, Mobile Push interaction data (Salesforce Marketing Cloud)</li><li>Social media interaction data</li><li>Media (Google Adwords/AdSense, Yahoo Gemini, Digital Television</ul></p>"
             }
         },
         {
@@ -149,9 +147,8 @@
                 "url": "https://image.slidesharecdn.com/mckinsey-nasscompresentationforsharing-130710162421-phpapp02/95/big-data-and-advanced-analytics-11-638.jpg?cb=1398085989"
             },
             "text": {
-                "headline": "II. Unfamiliar, unstructured data. <strong>Converted into structured date.</strong> Acted upon at scale.",
-                "text": "<p>Computer vision, feature detection. Nature language processing. Optical character recognition. Source <a target=\"_blank\" href=\"https://www.slideshare.net/McK_CMSOForum/big-data-and-advanced-analytics-16-use-cases\">Big Data and Advanced Analytics 16 Use Cases From a Practitioner's Perspective</a>, McKinsey & Company, Jul 10, 2013</p>"
-
+                "headline": "II. Unfamiliar, unstructured data. <strong>Converted into structured data.</strong> Acted upon at scale.",
+                "text": "<p>Through techniques such as computer vision and nature language processing, the advanced analytics teams unearths latent unstructured datasets by transforming them into structured datasets that can not only feed advanced analytics models but also become easily accessible to the broader organization</p><p>Examples include<ul><li>deriving product hierarchies from product images</li><li>running sentiment analysis on consumer services audio logs</li></ul>"
             }
         },
         {
@@ -188,39 +185,6 @@
         },
         {
             "start_date": {
-                "year":			"2016",
-                "month":		"12",
-                "day": 			"1",
-                "hour": 		"0",
-                "minute": 		"",
-                "second": 		"",
-                "millisecond": 	"",
-                "format": 		""
-            },
-            "end_date": {
-                "year":         "2017",
-                "month":        "7",
-                "day":          "31",
-                "hour":         "",
-                "minute":       "",
-                "second":       "",
-                "millisecond":  "",
-                "format":       ""
-            },
-            "media": {
-                "caption": "",
-                "credit":"Microsoft Corporation",
-                "url": "https://az712634.vo.msecnd.net/content/14b2744cf8d6418c87ffddc3f3127242/9502630827244d60a1214f250e3bbca7/ea949e1c6b2d4ed99bd725b20380dca1/effcb4cc2dc24d52999d149f27aa0f26/image?04267249198223655.jpg"
-            },
-            "text": {
-                "headline": "Customer Attrition (POC)",
-                "text": "<p>Environment provisioning/decommissioning: 12/2016 ~ 3/2017</p><p>Implemented and customized the Retail Churn Prediction template from the <a target=\"_blank\" href=\"https://gallery.cortanaintelligence.com/Tutorial/Retail-Customer-Churn-Prediction-1\">Microsoft Cortana Analytics Intelligence Gallery</a>, deployed on Famous Footwear dataset</p><p>Deployed test email marketing campaign 04/19/2017 ~ 05/20/2017"
-
-            },
-            "group": "Use Case"
-        },
-        {
-            "start_date": {
                 "year":         "2016",
                 "month":        "12",
                 "day":          "1",
@@ -232,7 +196,7 @@
             },
             "end_date": {
                 "year":         "2017",
-                "month":        "7",
+                "month":        "3",
                 "day":          "31",
                 "hour":         "",
                 "minute":       "",
@@ -242,7 +206,7 @@
             },
             "text": {
                 "headline": "Cloud/SaaS (POC)",
-                "text": "<p>Microsoft Azure Cloud platform proof-of-concept:<ul><li>Machine Learning Studio</li><li>Cortana Intelligence Gallery</li><li>Data Lake</li><li>Data Factory</li></ul></p>"
+                "text": "<p>Microsoft Azure Cloud platform proof-of-concept:<ul><li><a href=\"https://studio.azureml.net/home\" target=\"_blank\">Machine Learning Studio</a></li><li><a href=\"https://gallery.cortanaintelligence.com/\" target=\"_blank\">Cortana Intelligence Gallery</a></li><li><a href=\"https://azure.microsoft.com/en-us/solutions/data-lake/\" target=\"_blank\">Data Lake</a></li><li><a href=\"https://azure.microsoft.com/en-us/services/data-factory/\" target=\"_blank\">Data Factory</a></li></ul></p>"
             },
             "media": {
                 "caption": "",
@@ -255,8 +219,8 @@
             "start_date": {
                 "year":         "2017",
                 "month":        "7",
-                "day":          "",
-                "hour":         "",
+                "day":          "1",
+                "hour":         "1",
                 "minute":       "",
                 "second":       "",
                 "millisecond":  "",
@@ -264,8 +228,8 @@
             },
             "end_date": {
                 "year":         "2017",
-                "month":        "10",
-                "day":          "",
+                "month":        "12",
+                "day":          "31",
                 "hour":         "",
                 "minute":       "",
                 "second":       "",
@@ -274,7 +238,7 @@
             },
             "text": {
                 "headline": "On-premise Linux cluster (POC)",
-                "text": "<p>On-premise deployment of clustered Linux virtual machines running Python.<br/>Python and R are the most popular development languages in Data Science<br/>Scope of the POC is to refresh the Product Preference algorithm using the entire FF dataset<br/>Deployment a partnership between Caleres IS Operations & Architecture and FF/SR Marketing<br/>Environment provisioning/decommissioning: 03/2017 ~ Q4 2017</p>"
+                "text": "<p><ul><li>On-premise deployment of clustered Linux virtual machines running Python</li><li>Python and R are the most popular development languages in Data Science</li><li>Deployment a partnership between Caleres IS Operations & Architecture and FF/SR Marketing</li></ul></p>"
             },
             "media": {
                 "caption": "",
@@ -286,10 +250,10 @@
         },
         {
             "start_date": {
-                "year":         "2017",
-                "month":        "8",
-                "day":          "",
-                "hour":         "",
+                "year":         "2018",
+                "month":        "1",
+                "day":          "1",
+                "hour":         "2",
                 "minute":       "",
                 "second":       "",
                 "millisecond":  "",
@@ -298,7 +262,7 @@
             "end_date": {
                 "year":         "2020",
                 "month":        "12",
-                "day":          "",
+                "day":          "31",
                 "hour":         "",
                 "minute":       "",
                 "second":       "",
@@ -307,7 +271,7 @@
             },
             "text": {
                 "headline": "On-premise Linux cluster (Production)",
-                "text": "<p>On-premise deployment of clustered Linux virtual machines running Python.<br/>Python and R are the most popular development languages in Data Science<br/>Scope of the POC is to refresh the Product Preference algorithm using the entire FF dataset<br/>Deployment a partnership between Caleres IS Operations & Architecture and FF/SR Marketing<br/>Environment provisioning/decommissioning: 03/2017 ~ Q4 2017</p>"
+                "text": "<p></p>"
             },
             "media": {
                 "caption": "",
@@ -320,9 +284,9 @@
         {
             "start_date": {
                 "year":         "2018",
-                "month":        "4",
-                "day":          "",
-                "hour":         "",
+                "month":        "1",
+                "day":          "1",
+                "hour":         "1",
                 "minute":       "",
                 "second":       "",
                 "millisecond":  "",
@@ -340,7 +304,73 @@
             },
             "text": {
                 "headline": "Cloud Infrastructure (Prod)",
-                "text": "<p>On-premise deployment of clustered Linux virtual machines running Python.<br/>Python and R are the most popular development languages in Data Science<br/>Scope of the POC is to refresh the Product Preference algorithm using the entire FF dataset<br/>Deployment a partnership between Caleres IS Operations & Architecture and FF/SR Marketing<br/>Environment provisioning/decommissioning: 03/2017 ~ Q4 2017</p>"
+                "text": "<p></p>"
+            },
+            "media": {
+                "caption": "",
+                "credit":"",
+                "url": ""
+            },
+            "group": "Technology",
+            "unique_id": ""
+        },
+        {
+            "start_date": {
+                "year":         "2019",
+                "month":        "1",
+                "day":          "1",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "end_date": {
+                "year":         "2020",
+                "month":        "12",
+                "day":          "31",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "Event Driven Big/Fast Data Architecture (Prod)",
+                "text": "<p></p>"
+            },
+            "media": {
+                "caption": "",
+                "credit":"",
+                "url": ""
+            },
+            "group": "Technology",
+            "unique_id": "linux2"
+        },
+        {
+            "start_date": {
+                "year":         "2020",
+                "month":        "1",
+                "day":          "1",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "end_date": {
+                "year":         "2020",
+                "month":        "12",
+                "day":          "31",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "Data as a Service (Private/Public API Gateways) (Prod)",
+                "text": "<p></p>"
             },
             "media": {
                 "caption": "",
@@ -363,7 +393,7 @@
             },
             "end_date": {
                 "year":         "2017",
-                "month":        "7",
+                "month":        "3",
                 "day":          "31",
                 "hour":         "",
                 "minute":       "",
@@ -381,13 +411,13 @@
                 "url": ""
             },
             "group": "Talent",
-            "unique_id": "linux2"
+            "unique_id": ""
         },
         {
             "start_date": {
                 "year":         "2017",
                 "month":        "7",
-                "day":          "",
+                "day":          "2",
                 "hour":         "",
                 "minute":       "",
                 "second":       "",
@@ -397,7 +427,7 @@
             "end_date": {
                 "year":         "2017",
                 "month":        "12",
-                "day":          "",
+                "day":          "31",
                 "hour":         "",
                 "minute":       "",
                 "second":       "",
@@ -414,7 +444,7 @@
                 "url": ""
             },
             "group": "Talent",
-            "unique_id": "linux2"
+            "unique_id": ""
         },
         {
             "start_date": {
@@ -439,7 +469,7 @@
             },
             "text": {
                 "headline": "Leaders Lab: data possibilities and asking questions",
-                "text": "<p>On-premise deployment of clustered Linux virtual machines running Python.<br/>Python and R are the most popular development languages in Data Science<br/>Scope of the POC is to refresh the Product Preference algorithm using the entire FF dataset<br/>Deployment a partnership between Caleres IS Operations & Architecture and FF/SR Marketing<br/>Environment provisioning/decommissioning: 03/2017 ~ Q4 2017</p>"
+                "text": "<p>Focused education programs for managers (e.g. Leaders Lab 1.1)</p><p>Skills development and training for individuals who will access insights technology platform</p>"
             },
             "media": {
                 "caption": "",
@@ -447,13 +477,79 @@
                 "url": ""
             },
             "group": "Culture",
-            "unique_id": "linux2"
-        },
+            "unique_id": ""
+        },  
         {
             "start_date": {
-                "year":         "2015",
-                "month":        "4",
-                "day":          "",
+                "year":         "2017",
+                "month":        "7",
+                "day":          "1",
+                "hour":         "0",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "end_date": {
+                "year":         "2017",
+                "month":        "12",
+                "day":          "31",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "Value Clustering (POC)",
+                "text": "<p><ul><li>Scope of the POC is to refresh the Product Preference algorithm using the entire FF dataset</li></ul>"
+            },
+            "media": {
+                "credit": "",
+                "url": "<blockquote><p>How can we understand group purchasing behaviors by season and product classification?</p></blockquote><br/><blockquote><p>How can we build targeted communications, including frequency of messaging and product storytelling, to those groups?</p><blockquote>",
+                "thumb":    ""
+            },
+            "group": "Use Case",
+            "unique_id": ""
+        }, 
+        {
+            "start_date": {
+                "year":         "2018",
+                "month":        "1",
+                "day":          "1",
+                "hour":         "0",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "end_date": {
+                "year":         "2018",
+                "month":        "12",
+                "day":          "31",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "Value Clustering (Production)",
+                "text": "<p><ul><li></li></ul>"
+            },
+            "media": {
+                "credit": "",
+                "url": "<blockquote><p>How can we understand group purchasing behaviors by season and product classification?</p></blockquote><br/><blockquote><p>How can we build targeted communications, including frequency of messaging and product storytelling, to those groups?</p><blockquote>",
+                "thumb":    ""
+            },
+            "group": "Use Case",
+            "unique_id": ""
+        },  
+        {
+            "start_date": {
+                "year":         "2016",
+                "month":        "12",
+                "day":          "1",
                 "hour":         "",
                 "minute":       "",
                 "second":       "",
@@ -463,7 +559,7 @@
             "end_date": {
                 "year":         "2017",
                 "month":        "5",
-                "day":          "",
+                "day":          "31",
                 "hour":         "",
                 "minute":       "",
                 "second":       "",
@@ -471,16 +567,280 @@
                 "format":       ""
             },
             "text": {
-                "headline": "Value Clustering",
-                "text": "<p>How this was achieved:<br/><ul><li>On-premise deployment of clustered Linux virtual machines running Python</li><li>Python and R are the most popular development languages in Data Science</li><li>Scope of the POC is to refresh the Product Preference algorithm using the entire FF dataset</li><li>Deployment a partnership between Caleres IS Operations & Architecture and FF/SR Marketing</li><li>Environment provisioning/decommissioning: 03/2017 ~ Q4 2017</li></ul></p>"
+                "headline": "FF  Churn Prediction (POC)",
+                "text": "<ul><li>Implemented and customized the Retail Churn Prediction template from the <a target=\"_blank\" href=\"https://gallery.cortanaintelligence.com/Tutorial/Retail-Customer-Churn-Prediction-1\">Microsoft Cortana Analytics Intelligence Gallery</a>, deployed on Famous Footwear dataset</li><li>Deployed test email marketing campaign</li><ul>"
             },
             "media": {
                 "credit": "",
-                "url": "<blockquote><p>How can we understand group purchasing behaviors by season and product classification?</p></blockquote><br/><blockquote><p>How can we build targeted communications, including frequency of messaging and product storytelling, to those groups?</p><blockquote>",
+                "url": "<blockquote><p>When will a consumer churn out of the Rewards program?</p></blockquote><br/><blockquote><p>What can we implement to retain that consumer in the business?</p><blockquote>",
                 "thumb":    ""
             },
-            "group": "Culture",
-            "unique_id": "linux2"
+            "group": "Use Case",
+            "unique_id": ""
+        },  
+        {
+            "start_date": {
+                "year":         "2018",
+                "month":        "1",
+                "day":          "1",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "end_date": {
+                "year":         "2018",
+                "month":        "12",
+                "day":          "31",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "FF  Churn Prediction (Production)",
+                "text": ""
+            },
+            "media": {
+                "credit": "",
+                "url": "<blockquote><p>When will a consumer churn out of the Rewards program?</p></blockquote><br/><blockquote><p>What can we implement to retain that consumer in the business?</p><blockquote>",
+                "thumb":    ""
+            },
+            "group": "Use Case",
+            "unique_id": ""
+        },  
+        {
+            "start_date": {
+                "year":         "2018",
+                "month":        "6",
+                "day":          "1",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "end_date": {
+                "year":         "2019",
+                "month":        "5",
+                "day":          "31",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "Omnichannel Marketing Optimization",
+                "text": ""
+            },
+            "media": {
+                "credit": "",
+                "url": "<blockquote><p></p><blockquote>",
+                "thumb":    ""
+            },
+            "group": "Use Case",
+            "unique_id": ""
+        },  
+        {
+            "start_date": {
+                "year":         "2018",
+                "month":        "9",
+                "day":          "1",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "end_date": {
+                "year":         "2019",
+                "month":        "9",
+                "day":          "31",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "Consumer Sentiment Analysis (social, ratings/reviews, consumer services)",
+                "text": ""
+            },
+            "media": {
+                "credit": "",
+                "url": "<blockquote><p></p><blockquote>",
+                "thumb":    ""
+            },
+            "group": "Use Case",
+            "unique_id": ""
+        },
+        {
+            "start_date": {
+                "year":         "2018",
+                "month":        "1",
+                "day":          "1",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "end_date": {
+                "year":         "2018",
+                "month":        "12",
+                "day":          "31",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "Product Recommendation",
+                "text": ""
+            },
+            "media": {
+                "credit": "",
+                "url": "<blockquote><p></p><blockquote>",
+                "thumb":    ""
+            },
+            "group": "Use Case",
+            "unique_id": ""
+        },  
+        {
+            "start_date": {
+                "year":         "2018",
+                "month":        "6",
+                "day":          "1",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "end_date": {
+                "year":         "2018",
+                "month":        "12",
+                "day":          "31",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "Product Catalog Images Feature Extraction",
+                "text": "Convert unstructured data (product images) into structured data (feature database) that can be leveraged not only for building and improving the accuracy of data models, but also by analysts throughout the organization"
+            },
+            "media": {
+                "credit": "",
+                "url": "<blockquote><p></p><blockquote>",
+                "thumb":    ""
+            },
+            "group": "Use Case",
+            "unique_id": ""
+        },
+        {
+            "start_date": {
+                "year":         "2020",
+                "month":        "1",
+                "day":          "1",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "end_date": {
+                "year":         "2020",
+                "month":        "12",
+                "day":          "31",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "Fit Intelligence API",
+                "text": "Increasingly feature-rich API to tackle \"the fit problem\""
+            },
+            "media": {
+                "credit": "",
+                "url": "<blockquote><p></p><blockquote>",
+                "thumb":    ""
+            },
+            "group": "Use Case",
+            "unique_id": ""
+        },
+        {
+            "start_date": {
+                "year":         "2020",
+                "month":        "1",
+                "day":          "1",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "end_date": {
+                "year":         "2020",
+                "month":        "12",
+                "day":          "31",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "Omnichannel Marketing Execution",
+                "text": "<p>Real-time, automated omnichannel marketing execution based on continuously optimizated plan. Based on a growing number of data sources made available throuhg the big/fast data pipeline, automate and optimize marketing execution in channels such as Search (Google Ad Words, Bing), Ad Networks (Google Ad Sense, Yahoo Gemini), Social (Facebook, Pinterest, Snapchat), Digital Television</p>"
+            },
+            "media": {
+                "credit": "",
+                "url": "<blockquote><p></p><blockquote>",
+                "thumb":    ""
+            },
+            "group": "Use Case",
+            "unique_id": ""
+        },
+        {
+            "start_date": {
+                "year":         "2018",
+                "month":        "1",
+                "day":          "1",
+                "hour":         "0",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "end_date": {
+                "year":         "2018",
+                "month":        "12",
+                "day":          "31",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "Establish full-time Advanced Analytics team",
+                "text": "<p><ul><li>1 x Director: product development, project management</li><li>1 x Manager: product/project management, data engineering</li><li>1 x Data Scientist: model development, data engineering</li><li>1 x Data Engineer: data/systems engineering (New hire)</li></ul></p>"
+            },
+            "media": {
+                "caption": "",
+                "credit":"",
+                "url": ""
+            },
+            "group": "Talent",
+            "unique_id": ""
         }
     ]
 }
