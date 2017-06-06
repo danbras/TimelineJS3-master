@@ -206,7 +206,7 @@
             },
             "text": {
                 "headline": "Cloud/SaaS (POC)",
-                "text": "<p>Microsoft Azure Cloud platform proof-of-concept:<ul><li><a href=\"https://studio.azureml.net/home\" target=\"_blank\">Machine Learning Studio</a></li><li><a href=\"https://gallery.cortanaintelligence.com/\" target=\"_blank\">Cortana Intelligence Gallery</a></li><li><a href=\"https://azure.microsoft.com/en-us/solutions/data-lake/\" target=\"_blank\">Data Lake</a></li><li><a href=\"https://azure.microsoft.com/en-us/services/data-factory/\" target=\"_blank\">Data Factory</a></li></ul></p>"
+                "text": "<p>Microsoft Azure Cloud platform and advanced analytics Software-as-a-Service proof-of-concept:<ul><li><a href=\"https://studio.azureml.net/home\" target=\"_blank\">Machine Learning Studio</a></li><li><a href=\"https://gallery.cortanaintelligence.com/\" target=\"_blank\">Cortana Intelligence Gallery</a></li><li><a href=\"https://azure.microsoft.com/en-us/solutions/data-lake/\" target=\"_blank\">Data Lake</a></li><li><a href=\"https://azure.microsoft.com/en-us/services/data-factory/\" target=\"_blank\">Data Factory</a></li></ul></p>"
             },
             "media": {
                 "caption": "",
@@ -402,7 +402,7 @@
                 "format":       ""
             },
             "text": {
-                "headline": "Manager Data Insights, Manager Database Administration (partial time)",
+                "headline": "Ad-hoc, Part-time Project Team",
                 "text": "<p><ul><li>1 x Manager Data Insights (25%): SaaS setup, model development, data engineering</li><li>1 x Manager Database Administration (10%): cloud infrastructure setup/administration, data engineering</li></ul></p>"
             },
             "media": {
@@ -435,7 +435,7 @@
                 "format":       ""
             },
             "text": {
-                "headline": "Manager, Data Scientist, Information Systems Architect (partial time)",
+                "headline": "Ad-hoc, Part-time Project Team",
                 "text": "<p><ul><li>1 x Manager, Data Insights (25%): product/project management</li><li>1 x Data Scientist (35%): data engineering, model development</li><li>1 x Information Systems Architect (25%): systems engineering</li></ul></p>"
             },
             "media": {
@@ -502,7 +502,7 @@
             },
             "text": {
                 "headline": "Value Clustering (POC)",
-                "text": "<p><ul><li>Scope of the POC is to refresh the Product Preference algorithm using the entire FF dataset</li></ul>"
+                "text": "<p>Implemented the open-source <a href=\"https://news.wharton.upenn.edu/press-releases/2012/08/wharton-customer-analytics-initiative-announces-buy-til-you-die-btyd-models-package-release/\" target=\"_blank\">University of Pennsylvania Wharton Customer Analytics Initiative</a> advanced customer-base analysis method to predict customer lifetime value based on past transaction behavior.<ul><li></li></ul>"
             },
             "media": {
                 "credit": "",
@@ -822,7 +822,7 @@
             },
             "end_date": {
                 "year":         "2018",
-                "month":        "12",
+                "month":        "1",
                 "day":          "31",
                 "hour":         "",
                 "minute":       "",
@@ -833,6 +833,105 @@
             "text": {
                 "headline": "Establish full-time Advanced Analytics team",
                 "text": "<p><ul><li>1 x Director: product development, project management</li><li>1 x Manager: product/project management, data engineering</li><li>1 x Data Scientist: model development, data engineering</li><li>1 x Data Engineer: data/systems engineering (New hire)</li></ul></p>"
+            },
+            "media": {
+                "caption": "",
+                "credit":"",
+                "url": ""
+            },
+            "group": "Talent",
+            "unique_id": ""
+        },
+        {
+            "start_date": {
+                "year":         "2019",
+                "month":        "1",
+                "day":          "1",
+                "hour":         "0",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "end_date": {
+                "year":         "2019",
+                "month":        "1",
+                "day":          "31",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "Expand Advanced Analytics team",
+                "text": "<p><ul><li>1 x Director: product development, project management</li><li>1 x Manager: product/project management, data engineering</li><li>[+1] 2 x Data Scientist: model development, data engineering</li><li>[+1] 2 x Data Engineer: data/systems engineering</li></ul></p>"
+            },
+            "media": {
+                "caption": "",
+                "credit":"",
+                "url": ""
+            },
+            "group": "Talent",
+            "unique_id": ""
+        },
+        {
+            "start_date": {
+                "year":         "2020",
+                "month":        "1",
+                "day":          "1",
+                "hour":         "0",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "end_date": {
+                "year":         "2020",
+                "month":        "1",
+                "day":          "31",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "Expand Advanced Analytics team",
+                "text": "<p><ul><li>1 x Director: product development, project management</li><li>1 x Manager: product/project management, data engineering</li><li>[+1] 2 x Data Scientist: model development, data engineering</li><li>[+1] 2 x Data Engineer: data/systems engineering</li><li>[+ 1] 1 x Application Developer: API development</li></ul></p>"
+            },
+            "media": {
+                "caption": "",
+                "credit":"",
+                "url": ""
+            },
+            "group": "Talent",
+            "unique_id": ""
+        },
+        {
+            "start_date": {
+                "year":         "2018",
+                "month":        "6",
+                "day":          "1",
+                "hour":         "0",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "end_date": {
+                "year":         "2018",
+                "month":        "12",
+                "day":          "31",
+                "hour":         "",
+                "minute":       "",
+                "second":       "",
+                "millisecond":  "",
+                "format":       ""
+            },
+            "text": {
+                "headline": "Training and Development Program",
+                "text":"<p>Promote hands-on, interactive data exploration workshop series. Join/Promote AA Regional Alliance, Meetups, User Groups. Present work at conferences, meet ups, user groups; Enter Kaggle competitions.</p><p><strong>Data Science Training</strong> National <a href=\"https://www.thisismetis.com/\" target=\"_blank\">Metis</a> Local <a href=\"https://www.launchcode.org/\"target=\"_blank\">Launch Code</a><br/><strong>Data Science Meetups</strong> <a href=\"https://www.meetup.com/St-Louis-Machine-Learning/\" target=\"_blank\">St. Louis Machine Learning & Data Science</a> | <a href=\"https://www.meetup.com/Saint-Louis-RUG/\" target=\"_blank\">Saint Louis R User Group</a> | <a href=\"https://www.meetup.com/STL-Python/\" target=\"_blank\">STL Python</a><br/><strong>Professional Development</strong> <a href=\"https://medium.com/airbnb-engineering/how-airbnb-democratizes-data-science-with-data-university-3eccc71e073a\" target=\"_blank\">Airbnb Data Science University</a> | <a href=\"http://www.caterpillar.com/en/news/caterpillarNews/innovation/caterpillar-announces-grand-opening-of-first-data-innovation-lab.html\" target=\"_blank\">Caterpillar Data Innovation Lab</a> | <a href=\"http://www.caterpillar.com/en/careers/career-areas/college/professional-development-programs/analytics-professional-development-program.html\" target=\"_blank\">Caterpillar Analytics Professional Development Program</a> | <a href=\"http://multithreaded.stitchfix.com/\" target=\"_blank\">StichFix Engineering</a> <strong>Conferences</strong>  <strong>Data Science</strong>   <u>Local</u> Strangeloop Devup Conf/Silver Linings Regional Minneanalytics National <a href=\"https://pydata.org/\" target=\"_blank\">PyData</a> | <a href=\"https://conferences.oreilly.com/strata\" target=\"_blank\">Strata</a> | Microsoft Data Insights Summit | ACM SIGKDD Conference on Knowledge Discovery and Data Mining International <strong>Data Visualization</strong> Malofiej <a href=\"https://openvisconf.com/\" target=\"_blank\">Openvis</a> <strong>Computer Vision</strong> ACM CHI | ACM SIGGRAPH<br/>Organize scientific/academic/research paper reading sessions (modeled after <a href=\"http://paperswelove.org/\" target=\"_blank\">Papers Papers We Love (PWL)</a>, a community built around reading, discussing and learning more about academic computer science papers.</p>"
             },
             "media": {
                 "caption": "",
